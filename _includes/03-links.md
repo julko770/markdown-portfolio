@@ -1,1 +1,1 @@
-[link](https://julko770.github.io/markdown-portfolio/)
+[profile](https://julko770.github.io/markdown-portfolio/)
